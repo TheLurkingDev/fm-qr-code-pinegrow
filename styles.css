@@ -1,0 +1,22 @@
+.card {
+    max-width: 350px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 25px;
+    border-radius: 25px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.qr-code {
+    max-width: 350px;
+    border-radius: 20px;
+}
+
+body {
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    background-color: hsl(212, 45%, 89%);
+}
