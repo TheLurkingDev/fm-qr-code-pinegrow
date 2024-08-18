@@ -1,5 +1,5 @@
 .card {
-    max-width: 300px;
+    max-width: 350px;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -11,7 +11,7 @@
 }
 
 .qr-code {
-    max-width: 300px;
+    max-width: 350px;
     border-radius: 20px;
 }
 
